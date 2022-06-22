@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: "ArcticFox and Red Panda"
+title: "ArcticFox and RedPanda"
 description: "Guides for installing ArcticFox and RedPanda for dry herb vaping. Open source firmware compatible with multiple 510 mods from Wismec, Joytech, eleaf, and a few others"
 domain: beyondcombustion.net     # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://beyondcombustion.net  # the base hostname and protocol for your site, e.g. http://example.com
